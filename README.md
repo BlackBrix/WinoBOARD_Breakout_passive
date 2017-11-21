@@ -3,8 +3,7 @@
 This is a breadboard compatible Breakout-Board for the WinoBOARD (http://wino-board.com).  
 The WinoBOARD comes with 2.0 mm spaced pin headers, so you can NOT use it with any standard (solder-less) breadboard / prototyping PCB (stripes or holes) out of the box...
 
-###Features:
-
+### Features:
 * pin spacing 0,1 inch / 100 mil / 2,54 mm
 * 900 mil (22.86 mm) spacing between the 2 outer rows of pin headers
 * therefore it fits on every standard (solder-less) breadboard / prototyping PCB (stripes or holes)
